@@ -1,4 +1,4 @@
-# implementation for a chromosome in
+# implementation for a chromosome in GA
 # author: Nabhonil Kar (nkar@princeton.edu)
 import numpy as np
 import Genotype
