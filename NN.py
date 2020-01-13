@@ -11,6 +11,8 @@ import Chromosome
 import Population
 
 
+# run a GA for NAS on CIFAR10
+# author: Nabhonil Kar (nkar@princeton.edu)
 def NN(mem, device=None):
 
     # load settings

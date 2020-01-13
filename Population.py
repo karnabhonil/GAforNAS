@@ -1,4 +1,5 @@
 # implementation for a population in GA
+# author: Nabhonil Kar (nkar@princeton.edu)
 import Genotype
 import Chromosome
 import numpy as np

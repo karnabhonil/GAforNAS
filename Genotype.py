@@ -1,4 +1,5 @@
 # implementation for a genotype for a GA
+# author: Nabhonil Kar (nkar@princeton.edu)
 import numpy as np
 
 
