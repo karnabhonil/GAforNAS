@@ -1,3 +1,5 @@
+# run a GA for NAS on CIFAR10
+# author: Nabhonil Kar (nkar@princeton.edu)
 import torch
 import torchvision
 import torchvision.transforms as transforms
@@ -11,8 +13,6 @@ import Chromosome
 import Population
 
 
-# run a GA for NAS on CIFAR10
-# author: Nabhonil Kar (nkar@princeton.edu)
 def NN(mem, device=None):
 
     # load settings
